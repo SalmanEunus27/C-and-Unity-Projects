@@ -1,0 +1,13 @@
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.exe
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.deps.json
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.runtimeconfig.json
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.runtimeconfig.dev.json
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.dll
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.pdb
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.csprojAssemblyReference.cache
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.dll
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.pdb
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.genruntimeconfig.cache

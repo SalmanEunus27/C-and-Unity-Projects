@@ -1,0 +1,4 @@
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\obj\Debug\netcoreapp3.1\C-sharp-and-Unity-Projects.csprojAssemblyReference.cache
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\obj\Debug\netcoreapp3.1\C-sharp-and-Unity-Projects.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\obj\Debug\netcoreapp3.1\C-sharp-and-Unity-Projects.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\obj\Debug\netcoreapp3.1\C-sharp-and-Unity-Projects.csproj.CoreCompileInputs.cache

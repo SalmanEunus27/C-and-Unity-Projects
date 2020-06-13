@@ -1,0 +1,13 @@
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\bin\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.exe
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\bin\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.deps.json
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\bin\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.runtimeconfig.json
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\bin\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.runtimeconfig.dev.json
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\bin\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.dll
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\bin\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.pdb
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\obj\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.csprojAssemblyReference.cache
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\obj\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\obj\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\obj\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\obj\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.dll
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\obj\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.pdb
+C:\Users\salma\OneDrive\Documents\C-sharp-and-Unity-Projects\VeryFirstCodeinCsharp\VeryFirstCodeinCsharp\obj\Debug\netcoreapp3.1\VeryFirstCodeinCsharp.genruntimeconfig.cache

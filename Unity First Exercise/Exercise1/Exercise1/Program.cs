@@ -6,15 +6,10 @@ using System.Threading.Tasks;
 
 namespace Exercise1
 {
-    /// <summary>
-    /// Solution for Exercise 1
-    /// </summary>
+
     class Program
     {
-        /// <summary>
-        /// Prints names
-        /// </summary>
-        /// <param name="args">command-line args</param>
+     
         static void Main(string[] args)
         {
             // Problem 1: output name
